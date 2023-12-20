@@ -1,0 +1,128 @@
+body{
+
+    
+   margin: 0%;
+   
+   
+}
+
+
+
+.heading1{
+
+    text-align: center;
+
+
+}
+
+.block1{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: orange;
+    height: 100px;
+    align-items: center;
+    margin-bottom: 50px;
+   
+}
+
+.contact{
+
+    text-decoration: none;
+    color: white;
+    background-color: orange;
+    border-width: 2px;
+    border-color: white;
+    border-style: solid;
+    border-radius: 25%;
+}
+
+.contact  :hover{
+
+    color: brown;
+   
+
+}
+
+.course{
+
+    text-decoration: none;
+    color: white;
+    background-color: orange;
+    border-width: 2px;
+    border-color: white;
+    border-style: solid;
+    border-radius: 25%;
+}
+
+.course :hover{
+
+    color: brown;
+}
+
+.fee{
+
+    text-decoration: none;
+    color: white;
+    background-color: orange;
+    border-width: 2px;
+    border-color: white;
+    border-style: solid;
+    border-radius: 25%;
+}
+
+.fee :hover{
+
+    color: brown;
+}
+.imaggg{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+.para1{
+
+ padding: 100px;
+
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.para2{
+
+    padding: 100px;
+
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+}
+
+.footerr{
+
+    height: 300px;
+    background-color: orange;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+    
+
+}
+
+.video{
+
+    display: flex;
+
+    flex-direction: row;
+
+    justify-content: center;
+}
+
+.footerr a{
+
+    text-decoration: none;
+}
